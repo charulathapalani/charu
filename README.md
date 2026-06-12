@@ -12,8 +12,6 @@ My academic journey has helped me develop skills in programming, database manage
 
 ---
 
-## 🛠️ Skills & Tools
-
 ## 🛠 Skills & Tools
 
 <p>

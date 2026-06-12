@@ -32,14 +32,15 @@ My academic journey has helped me develop skills in programming, database manage
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
-### Soft Skills
-- Communication
-- Leadership
-- Team Coordination
-- Problem Solving
-- Adaptability
-- Time Management
-- Presentation Skills
+## 🌟 Soft Skills
+
+![Communication](https://img.shields.io/badge/Communication-4CAF50?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-2196F3?style=for-the-badge)
+![Team%20Coordination](https://img.shields.io/badge/Team%20Coordination-FF9800?style=for-the-badge)
+![Problem%20Solving](https://img.shields.io/badge/Problem%20Solving-9C27B0?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-009688?style=for-the-badge)
+![Time%20Management](https://img.shields.io/badge/Time%20Management-F44336?style=for-the-badge)
+![Presentation%20Skills](https://img.shields.io/badge/Presentation%20Skills-795548?style=for-the-badge)
 
 ---
 
